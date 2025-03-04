@@ -1,0 +1,17 @@
+.upload-btn {
+  padding: 8px 16px;
+  background-color: #4a90e2;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.upload-btn:hover {
+  background-color: #357abd;
+}
+
+.toolbar-item {
+  margin: 0 8px;
+} 
